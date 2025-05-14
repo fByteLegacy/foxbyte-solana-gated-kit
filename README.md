@@ -25,7 +25,7 @@ A complete starter kit for Solana NFT/token-gated utilities, allowing you to cre
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/foxbyte-solana-gated-kit.git
+   git clone https://github.com/fByteLegacy/foxbyte-solana-gated-kit.git
    cd foxbyte-solana-gated-kit
    ```
 
