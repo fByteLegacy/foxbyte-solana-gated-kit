@@ -43,7 +43,7 @@ Feature suggestions are welcome! Please submit an issue with:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/foxbyte-solana-gated-kit.git
+git clone https://github.com/fByteLegacy/foxbyte-solana-gated-kit.git
 cd foxbyte-solana-gated-kit
 ```
 

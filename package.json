@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/foxbyte-solana-gated-kit.git"
+    "url": "https://github.com/fByteLegacy/foxbyte-solana-gated-kit.git"
   },
   "scripts": {
     "dev": "next dev",

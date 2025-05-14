@@ -21,7 +21,7 @@ After creating the repository on GitHub, you'll be presented with instructions. 
 cd foxbyte-solana-gated-kit
 
 # Add the remote repository
-git remote add origin https://github.com/YOURUSERNAME/foxbyte-solana-gated-kit.git
+git remote add origin https://github.com/fByteLegacy/foxbyte-solana-gated-kit.git
 
 # Push the local repository to GitHub
 git push -u origin master
